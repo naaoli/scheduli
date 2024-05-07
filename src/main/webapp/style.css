@@ -1,0 +1,45 @@
+.tui-full-calendar-dayname-date {
+  display: none;
+}
+
+.tui-full-calendar-dayname-name {
+  color: #858796;
+  font-size: 15px;
+}
+
+.profile-image {
+  height: 50px;
+  width: 50px;
+}
+
+.pagination li {
+  color: black;
+  padding: 8px 16px;
+}
+
+.pagination li.active {
+  background-color: #3d64d3;
+  color: white;
+}
+
+.pagination li:hover:not(.active) {
+  background-color: #ddd;
+}
+
+.logo-image-sidebar {
+  width: 150px;
+  padding: 8px 16px;
+  max-width:90%;
+}
+
+.logo-image {
+  max-width:90%;
+}
+
+.large-icon {
+  font-size: 100px;
+}
+
+.index-text {
+  font-size: 20px;
+}
